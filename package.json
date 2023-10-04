@@ -1,0 +1,23 @@
+{
+  "name": "csvprojectcalculate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Analyzer.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bijomathewjose/CSVProjectCalculate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bijomathewjose/CSVProjectCalculate/issues"
+  },
+  "homepage": "https://github.com/bijomathewjose/CSVProjectCalculate#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
